@@ -1,4 +1,4 @@
-GoodFoundation🏗️
+Good Foundation🏗️
 =================
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/goodfoundation/goodfoundation) ![GitHub issues](https://img.shields.io/github/issues/goodfoundation/goodfoundation) ![GitHub](https://img.shields.io/github/license/goodfoundation/goodfoundation) ![GitHub Repo stars](https://img.shields.io/github/stars/goodfoundation/goodfoundation?style=social)
